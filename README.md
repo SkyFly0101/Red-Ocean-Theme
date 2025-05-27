@@ -6,6 +6,7 @@ Download Vencord -> https://vencord.dev/download/
 Download Clear Vision V7 -> https://github.com/ClearVision/ClearVision-v7?tab=readme-ov-file
 
 Place the css file inside Vencord->Settings file.
-(Make sure you've enabled Clear Vision V7 and are using my css file)
+(Make sure you've enabled Clear Vision V7 and are using my css file you might need to rename it to QuickCSS or copy
+the contents and paste them in the quick css when choosing a theme on Vencord)
 
 Contact me on discord itsjustalex_
