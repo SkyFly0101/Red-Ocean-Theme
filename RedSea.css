@@ -1,0 +1,50 @@
+:root {
+	--main-color: rgb(238, 51, 51);
+	--hover-color: rgb(140, 55, 55);
+    --background-image: url("https://i.imgur.com/gjPPSoy.jpeg");
+	/*https://i.imgur.com/F3EwaQh.png */
+}
+.wrapper__2ea32:hover {
+	background-color: var(--hover-color) !important;
+	cursor: pointer;
+	border-radius: 6px;
+}
+.wrapper__2ea32:hover * {
+	color: white !important;
+}
+.item__58105 {
+
+    background-color: var(--main-color) !important;
+	cursor: pointer;
+	border-radius: 6px;
+}
+
+[data-list-item-id="guildsnav___home"] .childWrapper__6e9f8  {
+  background-image: url("https://i.imgur.com/F3EwaQh.png") !important;
+  background-size: 90% auto !important;       /* Fits full image inside */
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  border-radius: 40% !important;
+ 
+ 
+  padding: 0px !important;                    /* Adds breathing room so edges aren’t cut */
+  box-sizing: border-box !important;          /* Make sure padding doesn’t grow box */
+  overflow: hidden !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  margin: 0 !important;
+}
+
+/* Remove SVG overlay if using visual refresh mode */
+.visual-refresh .childWrapper__6e9f8 > svg {
+	background: none !important;
+	display: none !important;
+}
+
+/* Also hide any inner <img> or SVG that might be blocking */
+.childWrapper__6e9f8 img,
+.childWrapper__6e9f8 svg {
+	display: none !important;
+}
+
