@@ -24,7 +24,7 @@
 
   /* APP BACKGROUND */
   --background-shading-percent: 100%; /* app background shading amount (0 for complete smoothness) [default: 100%] */
-  --background-image: url(https://clearvision.github.io/images/ruby.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/ruby.jpg)]*/
+  --background-image: url(https://i.imgur.com/gjPPSoy.jpeg); /* app background image (link must be HTTPS) [default: url(https://i.imgur.com/gjPPSoy.jpeg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size (px) [default: cover] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
@@ -45,8 +45,8 @@
   --user-modal-filter: var(--background-filter); /* user modal background adjustments (ex: blur, saturation, brightness) (more info: https://developer.mozilla.org/en-US/docs/Web/CSS/filter) [default: var(--background-filter);] */
   
   /* HOME ICON */
-  --home-icon: url(https://raw.githubusercontent.com/SkyFly0101/Red-Ocean-Theme/refs/heads/main/freepik__talk__62922.png); /* home button icon (link must be HTTPS) [default: url(https://raw.githubusercontent.com/SkyFly0101/Red-Ocean-Theme/refs/heads/main/freepik__talk__62922.png)]*/
-  --home-size: cover; /* home button icon size (px) [default:cover] */
+  --home-icon: url(https://raw.githubusercontent.com/SkyFly0101/Red-Ocean-Theme/refs/heads/main/homeIcon.png); /* home button icon (link must be HTTPS) [default: url(https://raw.githubusercontent.com/SkyFly0101/Red-Ocean-Theme/refs/heads/main/homeIcon.png)]*/
+  --home-size: 85% auto; /* home button icon size (px) [default:cover] */
   
   /* FONTS */
   --main-font: "gg sans", "Helvetica Neue", Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: gg sans, Helvetica Neue, Helvetica, Arial, sans-serif] */
