@@ -1,16 +1,11 @@
 /**
- * @name ClearVision V7 Ruby for Vencord
- * @author ClearVision Team
- * @version 7.0.1
- * @description Highly customizable theme for Vencord.
- * @source https://github.com/ClearVision/ClearVision-v7
- * @website https://clearvision.github.io
- * @invite dHaSxn3
+ * @name NIU Alex for Vencord
+
  */
 
 /* IMPORT CSS */
-@import url("https://clearvision.github.io/ClearVision-v7/main.css");
-@import url("https://clearvision.github.io/ClearVision-v7/vencord.css");
+@import url("https://raw.githubusercontent.com/SkyFly0101/Red-Ocean-Theme/refs/heads/main/main.css");
+@import url("https://raw.githubusercontent.com/SkyFly0101/Red-Ocean-Theme/refs/heads/main/vencord.css");
 
 /* SETTINGS */
 :root {
